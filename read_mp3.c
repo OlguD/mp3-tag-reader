@@ -4,7 +4,7 @@
 
 
 int main(){
-    char* filename = "/Users/olgudegirmenci/Downloads/Bayhan-Benim-Hala-Umudum-Var.mp3";
+    char* filename = "your mp3 file path";
     mp3Info info;
 
 
